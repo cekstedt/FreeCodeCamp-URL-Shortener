@@ -1,0 +1,13 @@
+{
+    "name": "URL Shortener Microservice",
+    "repo": "https://github.com/cekstedt/FreeCodeCamp-URL-Shortener",
+    "challenger": "FreeCodeCamp",
+    "challenge page": "https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice",
+    "hosted": "#",
+    "original": false,
+    "personal": false,
+    "thumbnail": "thumbnail.png",
+    "technologies": ["js", "node", "express"],
+    "status": "in_progress",
+    "priority": "low"
+  }
