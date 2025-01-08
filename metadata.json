@@ -6,7 +6,7 @@
     "hosted": null,
     "original": false,
     "personal": false,
-    "thumbnail": "thumbnail.png",
+    "thumbnail": null,
     "technologies": ["js", "node", "express"],
     "priority": "low"
   }
